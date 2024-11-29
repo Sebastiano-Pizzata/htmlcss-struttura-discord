@@ -1,0 +1,16 @@
+header{
+    background-color: #255EE9;
+    height: 400px;
+}
+
+main{
+    display: flex;
+    background-color:#FFFFFF ;
+    height: 1600px;
+}
+
+footer{
+    height: 400px;
+    background-color: #222326;
+}
+
