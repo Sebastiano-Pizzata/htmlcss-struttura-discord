@@ -7,10 +7,28 @@ main{
     display: flex;
     background-color:#FFFFFF ;
     height: 1600px;
+    flex-direction: column;
 }
 
 footer{
     height: 400px;
     background-color: #222326;
+    
 }
 
+.flex-1{
+    flex-basis: 20%;
+    position: absolute;
+    }
+.flex-2{
+    flex-basis: 20%;
+    background-color: #F5F5F5;
+}
+.flex-3{
+    flex-basis: 20%;
+}
+.flex-4{
+    flex-basis: 40%;
+    background-color: #F5F5F5;
+}
+              
